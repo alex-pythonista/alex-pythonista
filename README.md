@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alex-pythonista
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m AlexPy
+- 👀 I’m interested in backend and infrustructure engineering, cloud and AI.
+- 🌱 I’m currently learning Flutter for my jeetubhaiya project
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 indrajit.alex@gmail.com <<<
 
 <!---
 alex-pythonista/alex-pythonista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
