@@ -4,7 +4,7 @@
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
-- 💪🏼 I build projects mostly in Python-Django stack. Backend is my strong suit.
+- 💪🏼 I build projects mostly in Python-Django and dart-flutter stack. Backend is my strong suit.
 - 📚 But people barely going to hit the API endpoints to see how they work, right? So I am learning dart-Flutter stack for the frontend.
 - 🤝🏼 One of my core goals of 2023 is to contribute to Open Source projects. If I have achieved this goal, you would have noticed that already. If you didn't, just know, I am working on it.
 - ✍🏻 I write technical [blogs](https://medium.com/@alexpyofficial).
