@@ -1,6 +1,6 @@
 <!-- thems: #gh-dark-mode-only, #gh-light-mode-only  -->
 
-<h1 align="center"> Hello World, Alex this side! 👋</h1>
+<h1 align="center"> Hello World, AlexPy this side! 👋</h1>
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
